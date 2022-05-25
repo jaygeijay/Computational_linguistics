@@ -1,0 +1,124 @@
+Confronto i due corpora per numero di frasi:
+
+orwell.txt contiene:	 282 frasi
+climatechange.txt contiene:	 234 frasi
+orwell.txt ha più frasi del corpus climatechange.txt 
+
+
+
+Confronto i due corpora per numero di token:
+
+orwell.txt contiene:	 6622.0 token
+climatechange.txt contiene:	 6478.0 token
+orwell.txt ha più token del corpus climatechange.txt 
+
+
+
+lunghezza media delle frasi in termini di token
+
+Lunghezza media delle frasi in termini di token di orwell.txt : 23.4822695035461
+Lunghezza media delle frasi in termini di token di climatechange.txt : 27.683760683760685
+
+
+
+
+lunghezza media dei token in termini di caratteri escludendo la punteggiatura
+
+Lunghezza media dei token in termini di caratteri senza punteggiatura di orwell.txt : 4.450907868190988
+Lunghezza media dei token in termini di caratteri senza punteggiatura di climatechange.txt : 5.067961165048544
+
+
+
+
+numero di hapax sui primi 1000 token
+
+il valore degli hapax in orwell.txt è: 354
+il valore degli hapax in climatechange.txt è: 309
+
+
+
+
+Vocabolario all'aumentare del corpus di orwell.txt 
+
+	 267
+	 474
+	 651
+	 777
+	 899
+	 1024
+	 1146
+	 1251
+	 1385
+	 1487
+
+
+Vocabolario all'aumentare del corpus di climatechange.txt 
+
+	 281
+	 442
+	 570
+	 686
+	 770
+	 860
+	 946
+	 1028
+	 1099
+	 1162
+
+
+ricchezza lessicale calcolata attraverso la ttr in porzioni da 500 token orwell.txt
+	 ricchezza lessicale 500 token: 0.7865168539325843
+	 ricchezza lessicale 1000 token: 0.7468354430379747
+	 ricchezza lessicale 1500 token: 0.7572964669738863
+	 ricchezza lessicale 2000 token: 0.7207207207207207
+	 ricchezza lessicale 2500 token: 0.692992213570634
+	 ricchezza lessicale 3000 token: 0.677734375
+	 ricchezza lessicale 3500 token: 0.6771378708551483
+	 ricchezza lessicale 4000 token: 0.6674660271782574
+	 ricchezza lessicale 4500 token: 0.6707581227436823
+	 ricchezza lessicale 5000 token: 0.6617350369872226
+
+
+ricchezza lessicale calcolata attraverso la ttr in porzioni da 500 token climatechange.txt
+	 ricchezza lessicale 500 token: 0.7935943060498221
+	 ricchezza lessicale 1000 token: 0.6990950226244343
+	 ricchezza lessicale 1500 token: 0.6736842105263158
+	 ricchezza lessicale 2000 token: 0.6443148688046647
+	 ricchezza lessicale 2500 token: 0.612987012987013
+	 ricchezza lessicale 3000 token: 0.6069767441860465
+	 ricchezza lessicale 3500 token: 0.5887949260042283
+	 ricchezza lessicale 4000 token: 0.5768482490272373
+	 ricchezza lessicale 4500 token: 0.565059144676979
+	 ricchezza lessicale 5000 token: 0.5550774526678142
+
+
+
+
+Percentuale dell'insieme delle parole piene (aggettivi, sostantivi, verbi e avverbi) in orwell.txt
+	aggettivi: 2.94 %
+	sostantivi: 17.78 %
+	verbi: 8.52 %
+	avverbi: 4.57 %
+
+
+Percentuale dell'insieme delle parole piene (aggettivi, sostantivi, verbi e avverbi) in climatechange.txt
+	aggettivi: 4.73 %
+	sostantivi: 22.11 %
+	verbi: 6.76 %
+	avverbi: 3.28 %
+
+
+Percentuale dell'insieme delle parole funzionali (articoli, preposizioni, congiunzioni e pronomi) in orwell.txt
+	articoli: 7.41 %
+	preposizioni: 9.09 %
+	congiunzioni: 2.06 %
+	pronomi: 4.48 %
+
+
+Percentuale dell'insieme delle parole funzionali (articoli, preposizioni, congiunzioni e pronomi) in climatechange.txt
+	articoli: 6.12 %
+	preposizioni: 9.35 %
+	congiunzioni: 2.01 %
+	pronomi: 0.53 %
+
+
