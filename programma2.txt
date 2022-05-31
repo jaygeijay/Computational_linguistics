@@ -1,0 +1,406 @@
+
+
+	***___PROGRAMMA 2 Isidoro Allegretti 559896___***
+
+
+	___Punto 1___
+
+
+10 PoS più frequenti di orwell.txt
+	 NN compare 946 volte
+	 IN compare 841 volte
+	 DT compare 698 volte
+	 VBD compare 515 volte
+	 JJ compare 455 volte
+	 RB compare 386 volte
+	 , compare 368 volte
+	 PRP compare 327 volte
+	 NNP compare 304 volte
+	 . compare 290 volte
+
+
+10 PoS più frequenti di climatechange.txt
+	 NN compare 1097 volte
+	 IN compare 897 volte
+	 JJ compare 668 volte
+	 DT compare 592 volte
+	 NNS compare 559 volte
+	 NNP compare 273 volte
+	 , compare 262 volte
+	 . compare 234 volte
+	 RB compare 202 volte
+	 CC compare 202 volte
+
+
+
+
+10 bigrammi di POS piu' frequenti di orwell.txt
+	 IN DT compare 54 volte
+	 , CC compare 50 volte
+	 . DT compare 37 volte
+	 . PRP compare 37 volte
+	 IN DT compare 33 volte
+	 . PRP compare 32 volte
+	 PRP VBD compare 27 volte
+	 PRP VBD compare 27 volte
+	 VBD DT compare 24 volte
+	 PRP VBD compare 21 volte
+
+
+10 bigrammi di POS piu' frequenti di climatechange.txt
+	 IN DT compare 76 volte
+	 IN DT compare 66 volte
+	 , CC compare 43 volte
+	 . DT compare 31 volte
+	 DT NN compare 30 volte
+	 NNP NNP compare 26 volte
+	 NN NN compare 23 volte
+	 TO DT compare 20 volte
+	 NNP VBD compare 20 volte
+	 NNS IN compare 20 volte
+
+
+
+
+10 trigrammi di POS piu' frequenti di orwell.txt
+	 . PRP VBD compare 25 volte
+	 NNP NNP NNP compare 13 volte
+	 IN DT NNP compare 8 volte
+	 DT NN IN compare 7 volte
+	 , PRP VBD compare 7 volte
+	 PRP VBD DT compare 7 volte
+	 . PRP VBD compare 7 volte
+	 , CC DT compare 6 volte
+	 DT NNP IN compare 6 volte
+	 EX VBD DT compare 6 volte
+
+
+10 trigrammi di POS piu' frequenti di climatechange.txt
+	 NNP NNP VBD compare 17 volte
+	 NNS IN DT compare 12 volte
+	 IN DT NN compare 11 volte
+	 IN NN NN compare 9 volte
+	 DT NN , compare 9 volte
+	 DT NN NN compare 8 volte
+	 NNP VBD NN compare 8 volte
+	 IN DT NNP compare 8 volte
+	 DT NNP NNP compare 8 volte
+	 IN NNP NNP compare 8 volte
+
+
+
+
+20 aggettivi piu' frequenti di orwell.txt
+	 other compare 9 volte
+	 little compare 8 volte
+	 impossible compare 7 volte
+	 small compare 6 volte
+	 full compare 6 volte
+	 white compare 5 volte
+	 next compare 5 volte
+	 more compare 4 volte
+	 black compare 4 volte
+	 present compare 4 volte
+	 vast compare 4 volte
+	 possible compare 4 volte
+	 such compare 4 volte
+	 second compare 4 volte
+	 first compare 4 volte
+	 same compare 4 volte
+	 sandy-haired compare 4 volte
+	 B-B compare 4 volte
+	 cold compare 3 volte
+	 large compare 3 volte
+
+
+20 aggettivi piu' frequenti di climatechange.txt
+	 natural compare 24 volte
+	 global compare 23 volte
+	 human compare 21 volte
+	 other compare 20 volte
+	 many compare 18 volte
+	 atmospheric compare 18 volte
+	 more compare 18 volte
+	 average compare 18 volte
+	 observed compare 17 volte
+	 recent compare 15 volte
+	 such compare 14 volte
+	 past compare 12 volte
+	 different compare 11 volte
+	 long-term compare 10 volte
+	 last compare 9 volte
+	 ocean compare 9 volte
+	 current compare 8 volte
+	 fossil compare 7 volte
+	 small compare 7 volte
+	 higher compare 7 volte
+
+
+
+
+20 avverbi piu' frequenti di orwell.txt
+	 not compare 31 volte
+	 even compare 17 volte
+	 so compare 12 volte
+	 up compare 11 volte
+	 then compare 11 volte
+	 when compare 10 volte
+	 very compare 10 volte
+	 never compare 10 volte
+	 just compare 9 volte
+	 as compare 7 volte
+	 down compare 6 volte
+	 away compare 6 volte
+	 again compare 6 volte
+	 always compare 6 volte
+	 where compare 6 volte
+	 only compare 6 volte
+	 perhaps compare 6 volte
+	 simply compare 5 volte
+	 still compare 5 volte
+	 long compare 5 volte
+
+
+20 avverbi piu' frequenti di climatechange.txt
+	 not compare 15 volte
+	 also compare 14 volte
+	 more compare 10 volte
+	 ago compare 7 volte
+	 very compare 7 volte
+	 when compare 6 volte
+	 most compare 4 volte
+	 However compare 4 volte
+	 still compare 4 volte
+	 how compare 4 volte
+	 mainly compare 4 volte
+	 back compare 4 volte
+	 so compare 4 volte
+	 largely compare 4 volte
+	 alone compare 4 volte
+	 roughly compare 4 volte
+	 where compare 4 volte
+	 just compare 4 volte
+	 about compare 4 volte
+	 as compare 4 volte
+
+
+
+
+	___Punto 2___
+
+
+20 bigrammi composti da aggettivo e sostantivo con frequenza > 3 in orwell.txt
+	Il bigramma ('sandy-haired', 'woman') con frequenza 4
+	Il bigramma ('next', 'moment') con frequenza 2
+	Il bigramma ('cold', 'day') con frequenza 1
+	Il bigramma ('white', 'face') con frequenza 1
+	Il bigramma ('other', 'way') con frequenza 1
+	Il bigramma ('first', 'time') con frequenza 1
+	Il bigramma ('first', 'moment') con frequenza 1
+	Il bigramma ('Big', 'Brother') con frequenza 1
+	Il bigramma ('white', 'hair') con frequenza 1
+	Il bigramma ('other', 'people') con frequenza 1
+	Il bigramma ('Newspeak', 'words') con frequenza 1
+	Il bigramma ('heavy', 'face') con frequenza 1
+	Il bigramma ('heavy', 'Newspeak') con frequenza 1
+	Il bigramma ('such', 'moments') con frequenza 1
+	Il bigramma ('s', 'head') con frequenza 1
+	Il bigramma ('same', 'moment') con frequenza 1
+	Il bigramma ('’', 's') con frequenza 1
+	Il bigramma ('first', '‘') con frequenza 1
+	Il bigramma ('same', 'thing') con frequenza 1
+
+
+20 bigrammi composti da aggettivo e sostantivo con frequenza > 3 climatechange.txt
+	Il bigramma ('human', 'activities') con frequenza 13
+	Il bigramma ('average', 'surface') con frequenza 8
+	Il bigramma ('atmospheric', 'CO2') con frequenza 7
+	Il bigramma ('fossil', 'fuels') con frequenza 5
+	Il bigramma ('[', 'Figure') con frequenza 5
+	Il bigramma ('natural', 'factors') con frequenza 5
+	Il bigramma ('recent', 'climate') con frequenza 4
+	Il bigramma ('other', 'greenhouse') con frequenza 4
+	Il bigramma ('lower', 'atmosphere') con frequenza 4
+	Il bigramma ('nitrous', 'oxide') con frequenza 4
+	Il bigramma ('average', 'temperature') con frequenza 4
+	Il bigramma ('volcanic', 'eruptions') con frequenza 4
+	Il bigramma ('climate', 'change') con frequenza 3
+	Il bigramma ('atmospheric', 'concentrations') con frequenza 3
+	Il bigramma ('ocean', 'heat') con frequenza 3
+	Il bigramma ('global', 'surface') con frequenza 3
+	Il bigramma ('human-induced', 'changes') con frequenza 3
+	Il bigramma ('natural', 'causes') con frequenza 3
+	Il bigramma ('observed', 'changes') con frequenza 3
+	Il bigramma ('Human', 'activities') con frequenza 3
+
+
+
+
+con probabilità condizionata massima in orwell.txt
+	 ('Big', 'Brother') con  probabilità 1.0
+	 ('sandy-haired', 'woman') con  probabilità 1.0
+	 ('’', 's') con  probabilità 0.5
+	 ('next', 'moment') con  probabilità 0.4
+	 ('Newspeak', 'words') con  probabilità 0.2857142857142857
+	 ('heavy', 'Newspeak') con  probabilità 0.25
+	 ('heavy', 'face') con  probabilità 0.25
+	 ('same', 'moment') con  probabilità 0.25
+	 ('same', 'thing') con  probabilità 0.25
+	 ('such', 'moments') con  probabilità 0.25
+	 ('white', 'hair') con  probabilità 0.2
+	 ('first', 'moment') con  probabilità 0.2
+	 ('white', 'face') con  probabilità 0.2
+	 ('cold', 'day') con  probabilità 0.2
+	 ('first', 'time') con  probabilità 0.2
+	 ('first', '‘') con  probabilità 0.2
+	 ('other', 'way') con  probabilità 0.1111111111111111
+	 ('other', 'people') con  probabilità 0.1111111111111111
+	 ('s', 'head') con  probabilità 0.038461538461538464
+
+
+con probabilità condizionata massima in climatechange.txt
+	 ('lower', 'atmosphere') con probabilità 1.0
+	 ('nitrous', 'oxide') con probabilità 1.0
+	 ('[', 'Figure') con probabilità 0.875
+	 ('Human', 'activities') con probabilità 0.75
+	 ('fossil', 'fuels') con probabilità 0.7142857142857143
+	 ('volcanic', 'eruptions') con probabilità 0.6666666666666666
+	 ('human', 'activities') con probabilità 0.5652173913043478
+	 ('average', 'surface') con probabilità 0.5263157894736842
+	 ('regional', 'climate') con probabilità 0.5
+	 ('infrared', 'energy') con probabilità 0.5
+	 ('human-induced', 'changes') con probabilità 0.5
+	 ('little', 'role') con probabilità 0.4
+	 ('same', 'time') con probabilità 0.4
+	 ('solar', 'energy') con probabilità 0.4
+	 ('solar', 'changes') con probabilità 0.4
+	 ('global', 'average') con probabilità 0.391304347826087
+	 ('atmospheric', 'CO2') con probabilità 0.3888888888888889
+	 ('human-induced', 'climate') con probabilità 0.3333333333333333
+	 ('further', 'warming') con probabilità 0.3333333333333333
+	 ('climate', 'change') con probabilità 0.32098765432098764
+
+
+
+
+con forza associativa (LMI) massima in orwell.txt
+	 ('’', 's') con forza associativa 181.80790100865357
+	 ('Big', 'Brother') con forza associativa 93.71123200509636
+	 ('sandy-haired', 'woman') con forza associativa 39.54278549335758
+	 ('Newspeak', 'words') con forza associativa 17.127536556904065
+	 ('next', 'moment') con forza associativa 14.928465209802239
+	 ('such', 'moments') con forza associativa 8.693051295397
+	 ('same', 'thing') con forza associativa 8.108088794675844
+	 ('white', 'hair') con forza associativa 8.049195105622275
+	 ('heavy', 'Newspeak') con forza associativa 7.885696373339396
+	 ('first', 'time') con forza associativa 7.786160699788481
+	 ('cold', 'day') con forza associativa 7.5637682784520335
+	 ('first', '‘') con forza associativa 7.5637682784520335
+	 ('same', 'moment') con forza associativa 6.786160699788481
+	 ('other', 'way') con forza associativa 6.523126293954687
+	 ('first', 'moment') con forza associativa 6.4642326049011185
+	 ('other', 'people') con forza associativa 6.353201292512374
+	 ('heavy', 'face') con forza associativa 5.992611577255907
+	 ('s', 'head') con forza associativa 5.6706834823685455
+	 ('white', 'face') con forza associativa 5.6706834823685455
+
+
+con forza associativa (LMI) massima in climatechange.txt
+	 ('climate', 'change') con forza associativa 152.15193413184286
+	 ('human', 'activities') con forza associativa 101.89673669343046
+	 ('[', 'Figure') con forza associativa 66.28081372396954
+	 ('global', 'average') con forza associativa 63.53791456263211
+	 ('average', 'surface') con forza associativa 63.430159114602034
+	 ('ice', 'age') con forza associativa 61.657091539266496
+	 ('surface', 'temperature') con forza associativa 51.64678670201691
+	 ('fossil', 'fuels') con forza associativa 49.26988915368791
+	 ('nitrous', 'oxide') con forza associativa 42.64533101118075
+	 ('volcanic', 'eruptions') con forza associativa 39.01776862874667
+	 ('atmospheric', 'CO2') con forza associativa 38.439854259470124
+	 ('natural', 'factors') con forza associativa 37.95471712451895
+	 ('lower', 'atmosphere') con forza associativa 36.175339990465446
+	 ('average', 'temperature') con forza associativa 26.54534289768433
+	 ('other', 'greenhouse') con forza associativa 25.00776726662994
+	 ('Human', 'activities') con forza associativa 24.73888576054903
+	 ('natural', 'causes') con forza associativa 19.983998258385558
+	 ('atmospheric', 'concentrations') con forza associativa 19.8508159003102
+	 ('recent', 'decades') con forza associativa 19.59614920755066
+	 ('human-induced', 'changes') con forza associativa 18.705203994279266
+
+
+
+
+	___Punto 3___
+
+
+distribuzione di frequenza dove ogni token 6<token<25 e ha una frequenza maggiore di 2.
+
+
+file orwell.txt
+Frase: ' ﻿It was a bright cold day in April, and the clocks were striking thirteen. ' Probabilità: 0.04152823920265781 .
+
+
+
+
+Frase con probabilità piu alta calcolata attraverso un modello di Markov di ordine 2:
+Frase: '  ' Probabilità: 0 .
+
+
+
+
+
+
+distribuzione di frequenza dove ogni token 6<token<25 e ha una frequenza maggiore di 2.
+file: climatechange.txt
+Frase: ' ﻿CLIMATE CHANGE IS ONE OF THE DEFINING ISSUES OF OUR TIME. ' Probabilità: 0.0345785736338376 .
+
+
+
+
+Frase con probabilità piu alta calcolata attraverso un modello di Markov di ordine 2:
+Frase: '  ' Probabilità: 0 .
+
+
+
+
+
+
+
+
+	___Punto 4___
+
+
+Quindici nomi propri di persona più frequenti in orwell.txt
+	Il nome  Winston con frequenza 28
+	Il nome  Goldstein con frequenza 13
+	Il nome  Brien con frequenza 5
+	Il nome  Brother con frequenza 5
+	Il nome  Victory Mansions con frequenza 2
+	Il nome  O con frequenza 2
+	Il nome  Swine con frequenza 2
+	Il nome  Winston Smith con frequenza 1
+	Il nome  London con frequenza 1
+	Il nome  Appendix con frequenza 1
+	Il nome  Minipax con frequenza 1
+	Il nome  Miniluv con frequenza 1
+	Il nome  Love con frequenza 1
+	Il nome  Inner Party con frequenza 1
+	Il nome  Emmanuel Goldstein con frequenza 1
+
+
+Quindici nomi propri di persona più frequenti in climatechange.txt
+	Il nome  Earth con frequenza 26
+	Il nome  La Niña con frequenza 3
+	Il nome  El Niño con frequenza 2
+	Il nome  Climate con frequenza 2
+	Il nome  Climate Change con frequenza 1
+	Il nome  Scientific con frequenza 1
+	Il nome  Antarctic con frequenza 1
+	Il nome  Calls con frequenza 1
+	Il nome  Ralph J. Cicerone con frequenza 1
+	Il nome  Sir Paul Nurse con frequenza 1
+	Il nome  Human con frequenza 1
+	Il nome  Direct con frequenza 1
+	Il nome  Large con frequenza 1
+	Il nome  Ocean con frequenza 1
+	Il nome  Figure B1 con frequenza 1
